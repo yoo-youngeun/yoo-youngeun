@@ -2,12 +2,17 @@
 
 I'm a backend developer passionate about building scalable web services with **Java**, **Spring Boot**, and **SQL databases**.
 
-🚀 Currently diving deeper into AI and software architecture.  
-🛠️ Open to collaboration and always happy to share ideas!
+🚀 With nearly 3 years of hands-on experience in solution development,  
+I've built and customized enterprise solution systems for industrial use.  
+My focus includes REST API design, enterprise system setup, and backend optimization.
+
+🧠 Currently exploring **AI** and **software architecture** to expand my development capabilities.  
+🛠️ Open to collaboration and always happy to share and learn!
 
 ---
 
 ## 💻 My Skills
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -30,9 +35,15 @@ I'm a backend developer passionate about building scalable web services with **J
 ---
 
 ## 🧩 Additional Experience
-- Experienced in using version control tools (Git, SVN) for project management  
-- Have experience designing and testing RESTful APIs  
-- Participated in backend development using the MVC pattern  
-- Involved in ERD design and database modeling  
-- Worked on improving cross-browser compatibility  
-- Applied and maintained SSL certificates for HTTPS  
+
+- Developed and maintained **RESTful APIs** using Java and Spring
+- Customized and enhanced enterprise **solution systems** for large-scale environments
+- Designed and modeled databases (ERD creation, schema optimization, SQL tuning)
+- Applied **MVC architecture** in production-grade backend services
+- Set up and integrated enterprise systems including **SSL configuration**, **browser compatibility fixes**, and **deployment pipelines**
+- Experienced with Linux-based servers and tools (RedHat, PostgreSQL, LDAP)
+- Utilized **Git** and **SVN** for version control in collaborative projects
+
+---
+
+📫 Feel free to connect — I'm always open to new ideas and exciting opportunities!
